@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343726077774",
+    "project_id": "aranton-d1l-project",
+    "storage_bucket": "aranton-d1l-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343726077774:android:2844d1c1a8fe7cccdb901f",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343726077774-khtq663j2g037bt61rlkj2tjaikt802k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL3iXEz9CUoiGRCtth-aaA9HRmGVwSFjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343726077774-khtq663j2g037bt61rlkj2tjaikt802k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
